@@ -1,3 +1,3 @@
 007
 ===
-Some agent programming with Elixr.
+Some agent programming with Elixir.
